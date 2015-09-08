@@ -1,0 +1,170 @@
+.metronav {
+	position:relative;
+	width:960px;
+	margin:0px auto;
+}
+
+/* NAVIGATION BAR */
+.mn-lvl1-menu-metro, .mn-lvl1-menu {
+	margin:0px auto;
+	position:relative;
+	list-style-type: none;
+}
+.mn-lvl1-menu-metro { height:100px; }
+.mn-lvl1-menu { height:40px; }
+.mn-lvl1-menu-body { width:100%; height:100%; }
+
+/* START METRO MENU STYLE 1 */
+.mn-style-1 {
+	float:right;
+	cursor:pointer;
+	z-index:9999;
+	vertical-align:middle;
+	line-height:150px;
+}
+.mn-style-1 a {
+	display:block;	
+	color:#fff;
+	width:100px;
+	height:100px;
+	text-align:center;
+	font-family: 'Dosis', Sans-Serif;
+	padding-top:14px;
+}
+.mn-style-1 a img {
+	display:block;
+	width:48px;
+	height:48px;
+	margin:0px auto 8px auto;
+}
+.mn-style-1 a span {
+	font-size:16px;
+	display:block;
+	line-height:1;
+}
+/* END METRO MENU STYLE 1 */
+
+
+/* START METRO MENU STYLE 2 */
+.mn-style-2 {
+	float:left;
+	cursor:pointer;
+	z-index:9999;
+	line-height:100px;
+	height:100px;
+}
+.mn-style-2 a {
+	width:214px;
+	line-height:48px;
+	height:100px;
+	text-align:center;
+	font-family: 'Dosis', Sans-Serif;
+	display:block;
+	color:#fff;
+	padding-top:26px;
+	padding-bottom:26px;
+}
+.mn-style-2 img {
+	width:48px;
+	vertical-align:middle;
+}
+.mn-style-2 a span {
+	font-size:16px;
+	line-height:1;
+	padding:0px 10px;
+}
+/* END METRO MENU STYLE 2 */
+
+/* START NORMAL MENU */
+.mn-style-normal {
+	float:left;
+	cursor:pointer;
+	z-index:9999;
+	line-height:40px;
+	height:40px;
+}
+.mn-style-normal a {
+	display:inline-block;
+	padding:8px 10px;
+	line-height:24px;
+	height:24px;
+	font-size:16px;
+	color:#fff;
+	text-align:center;
+	font-family: 'Dosis', Sans-Serif;
+}
+.mn-style-normal img {
+	width:24px;
+	vertical-align:top;
+}
+.mn-style-normal span {
+	font-size:16px;
+	line-height:1;
+	padding:0px 5px;
+}
+/* END METRO MENU NORMAL */
+
+
+/* START METRO PLAY */
+.darkstyle {
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#33000000, endColorstr=#33000000);/* For IE 5.5 - 7 */
+	-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr=#33000000, endColorstr=#33000000)";/* For IE 8 */
+	background: rgba(0,0,0,0.2); /* Modern Browser */
+	color:#fafafa;
+	height:100%;
+}
+.darkstyle a {
+	color:#fafafa;	
+}
+
+/* Hover Version */
+.mn-lvl1-menu li:hover .mn-play, .mn-lvl1-menu li:hover .mn-play-2, .mn-lvl1-menu li:hover .mn-play-3,
+.mn-lvl1-menu-metro li:hover .mn-play, .mn-lvl1-menu-metro li:hover .mn-play-2, .mn-lvl1-menu-metro li:hover .mn-play-3,
+.mn-lvl1-menu li:hover .mn-play-bottom, .mn-lvl1-menu li:hover .mn-play-2-bottom, .mn-lvl1-menu li:hover .mn-play-3-bottom,
+.mn-lvl1-menu-metro li:hover .mn-play-bottom, .mn-lvl1-menu-metro li:hover .mn-play-2-bottom, .mn-lvl1-menu-metro li:hover .mn-play-3-bottom {
+	display:block;
+}
+
+/* End Hover Version */
+
+.mn-play-2, .mn-play-2-bottom { width:490px; }
+.mn-play-3, .mn-play-3-bottom { width:255px; }
+
+.mn-style-1 .mn-menu-right,
+.mn-style-2 .mn-menu-right,
+.mn-style-normal .mn-menu-right {
+	float:right;
+	right:0px;
+}
+
+
+/* When main menu is hovered */
+.mn-lvl1-menu li:hover > a,
+.mn-lvl1-menu-metro li:hover > a {
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#66000000, endColorstr=#66000000);/* For IE 5.5 - 7 */
+	-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr=#66000000, endColorstr=#66000000)";/* For IE 8 */
+	background: rgba(0,0,0,0.4); /* Modern Browser */
+}
+
+.mn-lvl1-menu li:active > a,
+.mn-lvl1-menu-metro li:active > a {
+	background:#111 !important;
+}
+/* END METRO PLAY */
+
+
+
+
+.mn-bg4 { /* Black 
+	background:#111;*/
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#33000000, endColorstr=#33000000);/* For IE 5.5 - 7*/
+	-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr=#33000000, endColorstr=#33000000)";/* For IE 8*/
+	background: rgba(0,0,0,0.2);/* Modern browser */
+}
+
+.mn-bg1, .mn-bg2, .mn-bg3, .mn-bg4, .mn-bg5, .mn-bg6, .mn-bg7, .mn-bg8, .mn-bg9, .mn-bg10, .mn-bg11, .mn-bg12 {
+	overflow:hidden;
+	height:100%;
+}
+
+

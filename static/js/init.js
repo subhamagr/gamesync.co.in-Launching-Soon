@@ -29,17 +29,26 @@ function init_gamesync() {
 
 	var mySwiper = new Swiper('.swiper-container',{
 		initialSlide:1,
-
 	});
 
 	$('.arrow-left').on('click', function(e){
-    	e.preventDefault()
-   		mySwiper.swipePrev()
+    	e.preventDefault();
+   		mySwiper.swipePrev();
   	});
 	
 	$('.arrow-right').on('click', function(e){
-		e.preventDefault()
-		mySwiper.swipeNext()
+		e.preventDefault();
+		mySwiper.swipeNext();
+	});
+
+	$('a.contact-nav-link').on('click', function(e) {
+		e.preventDefault();
+		mySwiper.swipeTo( 2,1000,false );
+	});
+
+	$('a.about-nav-link').on('click', function(e) {
+		e.preventDefault();
+		mySwiper.swipeTo( 0,1000,false );
 	});
 	
 //------------------------------init countdown-----------------------

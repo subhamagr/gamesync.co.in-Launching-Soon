@@ -311,7 +311,7 @@ Social-Links
 --------------------*/
 
 .social-links{
-	margin:50px auto;
+	margin:26px auto;
 	padding-bottom:50px;
 }
 .social-links li {
@@ -465,7 +465,7 @@ ul.countdown li {
 ul.countdown li span {
 	display: block;
 	font-family: 'Oswald', sans-serif;	
-	font-size: 5.6em;
+	font-size: 3.6em;
 	color:#fff;
 }
 ul.countdown li p {
@@ -828,14 +828,20 @@ retina ----- */
 	top:5%;
 }
 .about-link, .back-right , .contact-link, .back-left{
-	top:5%;
+	top:32%;
 	margin-top:0px;
 }
+.mn-style-1 {
+	float: left;
+}
+
 
 }
 @media only screen and  (max-width: 959px) {
 
-	
+	.mn-style-1 {
+	float: left;
+}
 .progress-holder{
 	margin-left:-125px;
 	width:250px;
@@ -861,6 +867,9 @@ retina ----- */
 .rotade, .over-border{
 	display:none;
 }
+	.mn-style-1 {
+	float: left;
+}
 
 }
 @media only screen and (max-width :480px) {
@@ -873,5 +882,9 @@ retina ----- */
 	width:90%;
 	margin-left:1%;
 }
+.mn-style-1 {
+	float: left;
+}
 
 }
+
