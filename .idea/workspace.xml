@@ -2,42 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cae10b38-00d5-4590-8a12-322b2355ab72" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/logo.jpg" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gamesync.co.in/site/slideshow/img/1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gamesync.co.in/site/slideshow/img/3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gamesync.co.in/site/slideshow/img/4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gamesync.co.in/site/slideshow/img/5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gamesync.co.in/site/slideshow/img/6.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gamesync.co.in/site/slideshow/img/logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gamesync.co.in/site/slideshow/index.html" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/gamesync.co.in/site/slideshow/css/font-awesome.min.css" afterPath="$PROJECT_DIR$/static/css/font-awesome.min.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/gamesync.co.in/site/slideshow/css/idangerous.swiper.css" afterPath="$PROJECT_DIR$/static/css/idangerous.swiper.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/gamesync.co.in/site/slideshow/css/reset.css" afterPath="$PROJECT_DIR$/static/css/reset.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/gamesync.co.in/site/slideshow/css/style.css" afterPath="$PROJECT_DIR$/static/css/style.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/gamesync.co.in/site/slideshow/css/superslides.css" afterPath="$PROJECT_DIR$/static/css/superslides.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/gamesync.co.in/site/slideshow/fonts/fontawesome-webfontba72-2.html" afterPath="$PROJECT_DIR$/static/fonts/fontawesome-webfontba72-2.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/gamesync.co.in/site/slideshow/fonts/fontawesome-webfontba72-3.html" afterPath="$PROJECT_DIR$/static/fonts/fontawesome-webfontba72-3.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/gamesync.co.in/site/slideshow/fonts/fontawesome-webfontba72-4.html" afterPath="$PROJECT_DIR$/static/fonts/fontawesome-webfontba72-4.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/gamesync.co.in/site/slideshow/fonts/fontawesome-webfontba72.html" afterPath="$PROJECT_DIR$/static/fonts/fontawesome-webfontba72.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/gamesync.co.in/site/slideshow/fonts/fontawesome-webfontd41d.html" afterPath="$PROJECT_DIR$/static/fonts/fontawesome-webfontd41d.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/gamesync.co.in/site/slideshow/img/2.jpg" afterPath="$PROJECT_DIR$/static/img/4.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/gamesync.co.in/site/slideshow/img/favicon.ico" afterPath="$PROJECT_DIR$/static/img/favicon.ico" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/gamesync.co.in/site/slideshow/img/overlays/01.png" afterPath="$PROJECT_DIR$/static/img/overlays/01.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/gamesync.co.in/site/slideshow/img/overlays/01@2x.png" afterPath="$PROJECT_DIR$/static/img/overlays/01@2x.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/gamesync.co.in/site/slideshow/js/county.js" afterPath="$PROJECT_DIR$/static/js/county.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/gamesync.co.in/site/slideshow/js/easing.js" afterPath="$PROJECT_DIR$/static/js/easing.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/gamesync.co.in/site/slideshow/js/idangerous.swiper-2.0.min.js" afterPath="$PROJECT_DIR$/static/js/idangerous.swiper-2.0.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/gamesync.co.in/site/slideshow/js/init.js" afterPath="$PROJECT_DIR$/static/js/init.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/gamesync.co.in/site/slideshow/js/jpreloader.min.js" afterPath="$PROJECT_DIR$/static/js/jpreloader.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/gamesync.co.in/site/slideshow/js/jquery.knob.js" afterPath="$PROJECT_DIR$/static/js/jquery.knob.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/gamesync.co.in/site/slideshow/js/superslides.js" afterPath="$PROJECT_DIR$/static/js/superslides.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="gamesync.co.in-Launching-Soon.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -62,8 +27,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.8381295">
-              <caret line="206" column="49" selection-start-line="206" selection-start-column="49" selection-end-line="206" selection-end-column="49" />
+            <state vertical-scroll-proportion="0.5503597">
+              <caret line="26" column="55" selection-start-line="26" selection-start-column="55" selection-end-line="26" selection-end-column="55" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#li#0;n#ul#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#li#1;n#ul#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -75,6 +40,7 @@
                 <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#h3#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h3#1;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -457,6 +423,7 @@
             <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#h3#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h3#1;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -471,8 +438,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.8381295">
-          <caret line="206" column="49" selection-start-line="206" selection-start-column="49" selection-end-line="206" selection-end-column="49" />
+        <state vertical-scroll-proportion="0.5503597">
+          <caret line="26" column="55" selection-start-line="26" selection-start-column="55" selection-end-line="26" selection-end-column="55" />
           <folding>
             <element signature="n#style#0;n#div#0;n#li#0;n#ul#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#li#1;n#ul#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -484,6 +451,7 @@
             <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#h3#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h3#1;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
