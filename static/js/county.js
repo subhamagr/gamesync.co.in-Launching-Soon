@@ -36,7 +36,9 @@
             var utc = date.getTime() + (date.getTimezoneOffset() * 60000);
 
             // set new Date object
-            var new_date = new Date(utc + (3600000*settings.offset))
+            var new_date = new Date(utc);
+            new_date.setHours(new_date.getHours() + 5);
+            new_date.setMinutes(new_date.getMinutes() + 30);
 
             return new_date;
         };
