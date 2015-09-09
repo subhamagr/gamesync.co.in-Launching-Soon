@@ -206,7 +206,10 @@ Content Styles
     -moz-transition:    margin-top 0.5s ease-in-out;
     -o-transition:      margin-top 0.5s ease-in-out;
     transition:         margin-top 0.5s ease-in-out;
-}	
+}
+
+
+
 .small-separator{
 	width:100px;
 	height:1px;
@@ -848,7 +851,7 @@ retina ----- */
 	height:240px;
 	top:20%;
 }
-.container h3{
+.container h3, h2{
 	margin:20px auto;
 }
 .bc{

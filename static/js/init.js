@@ -41,6 +41,11 @@ function init_gamesync() {
 		mySwiper.swipeNext();
 	});
 
+	$('a.home-nav-link').on('click', function(e) {
+		e.preventDefault();
+		mySwiper.swipeTo( 1,1000,false );
+	});
+
 	$('a.contact-nav-link').on('click', function(e) {
 		e.preventDefault();
 		mySwiper.swipeTo( 2,1000,false );
