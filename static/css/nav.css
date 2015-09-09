@@ -15,14 +15,14 @@
 .mn-lvl1-menu-body { width:100%; height:100%; }
 
 /* START METRO MENU STYLE 1 */
-.mn-style-1 {
+.mn-style-1 .nav-sub-link {
 	float:right;
 	cursor:pointer;
 	z-index:9999;
 	vertical-align:middle;
 	line-height:150px;
 }
-.mn-style-1 a {
+.mn-style-1 a{
 	display:block;	
 	color:#fff;
 	width:100px;
@@ -40,7 +40,7 @@
 .mn-style-1 a span {
 	font-size:16px;
 	display:block;
-	line-height:1;
+	line-height:2.5;
 }
 /* END METRO MENU STYLE 1 */
 
@@ -105,18 +105,6 @@
 /* END METRO MENU NORMAL */
 
 
-/* START METRO PLAY */
-.darkstyle {
-	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#33000000, endColorstr=#33000000);/* For IE 5.5 - 7 */
-	-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr=#33000000, endColorstr=#33000000)";/* For IE 8 */
-	background: rgba(0,0,0,0.2); /* Modern Browser */
-	color:#fafafa;
-	height:100%;
-}
-.darkstyle a {
-	color:#fafafa;	
-}
-
 /* Hover Version */
 .mn-lvl1-menu li:hover .mn-play, .mn-lvl1-menu li:hover .mn-play-2, .mn-lvl1-menu li:hover .mn-play-3,
 .mn-lvl1-menu-metro li:hover .mn-play, .mn-lvl1-menu-metro li:hover .mn-play-2, .mn-lvl1-menu-metro li:hover .mn-play-3,
@@ -166,5 +154,51 @@
 	overflow:hidden;
 	height:100%;
 }
+
+.nav-sub-link a {
+    font-size: 20px;
+    opacity: 0.8;
+    position: relative;
+    display:block;
+	width:100px;
+	height:100px;
+	font-family: 'Dosis', Sans-Serif;
+}
+
+.circle {
+    border: 4px solid #fff;
+    border-radius: 100%;
+    display:block;
+	color:#fff;
+	width:50px;
+	height:50px;
+    margin-left: 25px;
+	text-align:center;
+}
+
+.circle span {
+    line-height: 2.5;
+}
+
+.circle span i {
+	font-size: 20px;
+}
+
+
+.nav-links li a p{
+	font-size:18px;
+	display:block;
+	line-height:1;
+    color: #fff;
+    margin-top: 7px;
+}
+
+.nav-links li:hover {
+    height: 100px;
+    width: 100px;
+	background: rgba(0,0,0,0.4); /* Modern Browser */
+}
+
+
 
 
