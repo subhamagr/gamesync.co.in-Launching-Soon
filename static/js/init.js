@@ -114,6 +114,7 @@ function init_gamesync() {
 		}	
 		return false;
 	});
+}
 	
 $(document).ready(function(){
 	init_gamesync();
